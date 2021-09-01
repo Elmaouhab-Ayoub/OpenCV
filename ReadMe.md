@@ -5,7 +5,10 @@
 ```
 pip install opencv-python
 ```
-
+Download the script and open file contain it with command :
+```
+git clone https://github.com/Elmaouhab-Ayoub/OpenCV && cd OpenCV 
+```
 you can run the script with :
 ```
 python3 OpenCV.py
